@@ -5,7 +5,7 @@ var expect = require('expect.js');
 describe("testing the azure ci running test step", function () {
 	it("a variable equals the right value", function () {
 
-		expect(t).to.eql("test");
+		expect(t).to.eql("test2");
 
 	});
 });
